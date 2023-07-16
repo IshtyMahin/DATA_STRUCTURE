@@ -1,0 +1,6 @@
+//BST => Binary Search Tree  => (Binary Tree +  Binary Seaarch)
+         
+=> node-> left < node
+=> node->right > node
+
+* duplicate takle oita bst te insert kora jabe na , kintu count kore rakte hobe

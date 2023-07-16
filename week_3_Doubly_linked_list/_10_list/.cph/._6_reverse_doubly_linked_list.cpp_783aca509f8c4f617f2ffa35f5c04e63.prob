@@ -1,0 +1,1 @@
+{"name":"Local: _6_reverse_doubly_linked_list","url":"e:\\_Phitron\\_3_data_structure\\_10_list\\_6_reverse_doubly_linked_list.cpp","tests":[{"id":1687241552803,"input":"10 20 30 40  50 -1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\_Phitron\\_3_data_structure\\_10_list\\_6_reverse_doubly_linked_list.cpp","group":"local","local":true}
