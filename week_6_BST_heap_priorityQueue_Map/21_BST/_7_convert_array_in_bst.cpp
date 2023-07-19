@@ -55,6 +55,7 @@ void level_order(Node *root)
         }
 }
 
+
 int main(){
      int n;
      cin>>n;
@@ -63,6 +64,7 @@ int main(){
         cin>>a[i];
      }
 
+    // convert array to BST 
      Node * root = convert(a,n,0,n-1);
 
      level_order(root);
