@@ -27,3 +27,5 @@ int main(){
         cout<<"Nai"<<endl;
      }
 }
+
+//hashing

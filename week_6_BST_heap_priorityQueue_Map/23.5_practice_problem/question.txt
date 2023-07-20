@@ -1,0 +1,19 @@
+1. https://leetcode.com/problems/middle-of-the-linked-list/
+
+2. https://leetcode.com/problems/design-linked-list/
+
+3. https://www.codingninjas.com/studio/problems/queue-using-array-or-singly-linked-list_2099908
+
+4. https://www.codingninjas.com/studio/problems/reverse-stack-using-recursion_631875
+
+5.  https://leetcode.com/problems/valid-parentheses/
+
+6. https://leetcode.com/problems/binary-tree-inorder-traversal/
+
+7. https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+8. https://leetcode.com/problems/search-in-a-binary-search-tree/
+
+9. https://leetcode.com/problems/left-and-right-sum-differences/
+
+10. https://leetcode.com/problems/find-pivot-index/
